@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: darkgray;
+    margin-top: 1%;
+}
+
+.bgcolor{
+    background-color: rgb(248, 249, 250); 
+    height: 60px;  
+}
+
+.text{
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: x-large;
+    font-weight: 300;
+}
+
+.section1{
+    background-color: rgb(14, 52, 77);
+    height: auto;
+    padding-bottom: 200px;
+}
+
+.box{
+    background-color: rgb(255, 255, 255);
+    margin: 50px;
+    padding: 50px;
+    width: 70%;
+    float: right;
+    border-radius: 10px;
+}
+
+.box input, textarea{
+    align-items: center;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.box textarea{
+    height: 250px;
+}
+
+.btn{
+    margin-top: 30px;
+    width:100%;
+    font-size: 25px;
+    background-color: rgb(40, 167, 69);
+}
+
+.box2{
+    align-items: center;
+    float: left;
+    margin-top: 10%;
+    
+}
+
+.table{
+    color: white;
+    font-size: larger;
+}
+
+tr{
+    margin-bottom: 20px;
+    padding: 10px;
+}
